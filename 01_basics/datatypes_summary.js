@@ -17,3 +17,15 @@ console.log(id==anotherId);  //Output:- False
 //Reference (Non PRimitive)
 
 //Array,Objects,Functions
+
+const heroes=["Shaktiman","Nagraj","doga"]
+
+let myobject={
+    name:"Geetanjali",
+    agr:20,
+    iseligible:true
+}
+
+const muFunction=function(){
+    console.log("Hello World")
+}
